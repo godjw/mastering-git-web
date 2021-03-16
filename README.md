@@ -12,10 +12,18 @@
 
 ## 3. 프로젝트에 필요한 기술
 1) 영상에서 페이지 스캔을 진행할 시점을 선택할 수 있는 AI 개발
+<img src="images/1.jpeg" height="300px" width="300px">
 
-<p align="center"><img src="images/1.jpeg" height="300px" width="300px"> </p>
 **스캔 되면 안되는 시점**
-<p align="center"><img src="images/2.jpeg" height="300px" width="300px"> </p>
+
+<img src="images/2.jpeg" height="300px" width="300px">
+
 **스캔 되면 안되는 시점**
-<p align="center"><img src="images/3.jpeg" height="300px" width="300px"> </p>
+
+<img src="images/3.jpeg" height="300px" width="300px">
+
 **스캔이 진행되어야 하는 시점**
+
+<img src="images/4.jpeg" height="300px" width="300px">
+
+**스캔 진행**
