@@ -29,4 +29,4 @@
 <br>
 2) OCR(Optical Character Recognition)을 이용하여 스캔된 문서에서 텍스트를 인식
 
-<img src="images/5.png" height="300px" width="300px">
+<img src="images/5.png">
